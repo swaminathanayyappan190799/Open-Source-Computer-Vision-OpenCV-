@@ -7,6 +7,6 @@ This is an python notebook which explains the basic operations performed using P
 5) Visualizing each channels of the input image using matplotlib(RGB).
 
 
-Colab link : https://colab.research.google.com/drive/1L5k30LsiAvVZyMRXCw5FoDQYW2WDgRc6?usp=sharing
+
 
 
